@@ -1,0 +1,4 @@
+
+cd /
+
+/mnt/c/MyLabProjects/DeepLearning/Course_Work_DL
