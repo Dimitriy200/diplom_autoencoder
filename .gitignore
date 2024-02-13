@@ -97,3 +97,4 @@ data/*/*
 
 # Notebooks
 notebooks/*
+/data
