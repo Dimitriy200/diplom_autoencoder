@@ -93,7 +93,7 @@ target/
 outputs
 
 # Data
-data/*/*
+#data/*/*
 
 # Notebooks
 notebooks/*
