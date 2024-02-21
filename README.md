@@ -1,10 +1,5 @@
 # Diplom_AutoEncoder
 
-## Tools used in this project
-* [hydra](https://hydra.cc/): Manage configuration files - [article](https://mathdatasimplified.com/stop-hard-coding-in-a-data-science-project-use-configuration-files-instead/)
-* [pdoc](https://github.com/pdoc3/pdoc): Automatically create an API documentation for your project
-* [pre-commit plugins](https://pre-commit.com/): Automate code reviewing formatting
-
 
 ## Project Structure
 
@@ -40,7 +35,7 @@
     └── test_train_model.py         # test functions for train_model.py
 ```
 
-## Set up the environment
+<!-- ## Set up the environment
 
 
 1. Create the virtual environment:
@@ -56,24 +51,24 @@ source venv/bin/activate
 - For Command Prompt:
 ```bash
 .\venv\Scripts\activate
-```
+``` -->
 
-3. Install all dependencies for this repository:
+<!-- 3. Install all dependencies for this repository:
 ```bash
 make
-```
+``` -->
 
-To install a new package, run:
+<!-- To install a new package, run:
 
 ```bash
 pip install <package-name>
-```
+``` -->
 
 
-## Auto-generate API documentation
+<!-- ## Auto-generate API documentation
 
 To auto-generate API document for your project, run:
 
 ```bash
 make docs
-```
+``` -->
