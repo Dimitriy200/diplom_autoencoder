@@ -8,26 +8,29 @@ from sklearn.pipeline import Pipeline
 
 class PrepData():
 
-    defaultPipline = None
-
-
     '''
     B inpFilesList и outFilesList указывать полный путь
     '''
-    def __init__(self, defaultPipline):
-        self.defaultPipline = PrepData.createDefaultPipline()
-    
-    
+    def __init__(self):
+        self.__defaultPipline = PrepData.createDefaultPipline()
+
+  
     def createDefaultPipline(self):
         simple_inputer = KNNImputer(n_neighbors = 2)
         std_scaler = StandardScaler()
         pipe_num = Pipeline([('imputer', simple_inputer),('scaler', std_scaler)])
 
         return pipe_num
-    
+
+
+    @property
+    def defaultPipline(self):
+        return self.__defaultPipline
+
+
     def processing_data(self,
-                        inpFilesList = [], 
-                        outFilesList = [], 
-                        pipline = 
-                        defaultPipline):
-        d
+                        inpFilesList: list, 
+                        outFilesList: list, 
+                        pipline: Pipeline = defaultPipline):
+        []
+    
