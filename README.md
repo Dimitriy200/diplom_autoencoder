@@ -1,5 +1,4 @@
-# Diplom_AutoEncoder
-
+<h2>Diplom_AutoEncoder</h2>
 
 ## Project Structure
 
@@ -13,7 +12,7 @@
 │   └── process                     # Configurations for processing data
 │       ├── process1.yaml           # First variation of parameters to process data
 │       └── process2.yaml           # Second variation of parameters to process data
-├── data            
+├── data
 │   ├── final                       # data after training the model
 │   ├── processed                   # data after processing
 │   └── raw                         # raw data
@@ -30,9 +29,7 @@
 │   ├── process.py                  # process data before training model
 │   └── train_model.py              # train model
 └── tests                           # store tests
-    ├── __init__.py                 # make tests a Python module 
-    ├── test_process.py             # test functions for process.py
-    └── test_train_model.py         # test functions for train_model.py
+    ├── __init__.py                 # make tests a Python module
 ```
 
 <!-- ## Set up the environment
