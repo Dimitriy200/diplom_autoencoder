@@ -35,3 +35,8 @@ select = ["B","C","E","F","W","B9", "I", "Q"]
 [tool.ruff.lint.mccabe]
 max-complexity = 10
 
+# Pytest
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+
