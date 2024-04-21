@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T17:49:28.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fjIeFd5txFHhY2jFJ4a8" version="24.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-21T17:51:01.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FDaglVolFwqL1zD7s96K" version="24.2.7" type="github" pages="2">
   <diagram name="Классы" id="oeacRI9C3uSAY6F9_cj7">
     <mxGraphModel dx="1149" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yHwgCoZqg0AxdPvR74w9" name="Алгорим">
-    <mxGraphModel dx="1335" dy="275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,10 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GLhPutWw6htPnB1WFeUf-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;createDefault_Pipline&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="40" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="GLhPutWw6htPnB1WFeUf-18" value="+defaultPipline&lt;br&gt;+status" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="GLhPutWw6htPnB1WFeUf-17">
-          <mxGeometry y="30" width="160" height="50" as="geometry" />
+          <mxGeometry y="40" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
