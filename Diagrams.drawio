@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T18:05:57.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BbNPVoisdj0AMZ2SljF5" version="24.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-21T18:06:21.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-j45P8F_Y7H0C1Tg5vu4" version="24.2.7" type="github" pages="2">
   <diagram name="Классы" id="oeacRI9C3uSAY6F9_cj7">
     <mxGraphModel dx="1149" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yHwgCoZqg0AxdPvR74w9" name="Алгорим">
-    <mxGraphModel dx="1651" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1225" dy="219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,6 +77,12 @@
         </mxCell>
         <mxCell id="GLhPutWw6htPnB1WFeUf-25" value="&lt;font color=&quot;#333300&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;check_type_np&lt;/span&gt;&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GLhPutWw6htPnB1WFeUf-26" value="" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GLhPutWw6htPnB1WFeUf-14" target="GLhPutWw6htPnB1WFeUf-25">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-60" y="260" as="sourcePoint" />
+            <mxPoint x="20" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
